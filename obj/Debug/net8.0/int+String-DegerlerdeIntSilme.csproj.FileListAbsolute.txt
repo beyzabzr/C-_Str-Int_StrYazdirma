@@ -1,0 +1,14 @@
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\int+String-DegerlerdeIntSilme\bin\Debug\net8.0\int+String-DegerlerdeIntSilme.exe
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\int+String-DegerlerdeIntSilme\bin\Debug\net8.0\int+String-DegerlerdeIntSilme.deps.json
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\int+String-DegerlerdeIntSilme\bin\Debug\net8.0\int+String-DegerlerdeIntSilme.runtimeconfig.json
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\int+String-DegerlerdeIntSilme\bin\Debug\net8.0\int+String-DegerlerdeIntSilme.dll
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\int+String-DegerlerdeIntSilme\bin\Debug\net8.0\int+String-DegerlerdeIntSilme.pdb
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\int+String-DegerlerdeIntSilme\obj\Debug\net8.0\int+String-DegerlerdeIntSilme.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\int+String-DegerlerdeIntSilme\obj\Debug\net8.0\int+String-DegerlerdeIntSilme.AssemblyInfoInputs.cache
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\int+String-DegerlerdeIntSilme\obj\Debug\net8.0\int+String-DegerlerdeIntSilme.AssemblyInfo.cs
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\int+String-DegerlerdeIntSilme\obj\Debug\net8.0\int+String-DegerlerdeIntSilme.csproj.CoreCompileInputs.cache
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\int+String-DegerlerdeIntSilme\obj\Debug\net8.0\int+String-DegerlerdeIntSilme.dll
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\int+String-DegerlerdeIntSilme\obj\Debug\net8.0\refint\int+String-DegerlerdeIntSilme.dll
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\int+String-DegerlerdeIntSilme\obj\Debug\net8.0\int+String-DegerlerdeIntSilme.pdb
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\int+String-DegerlerdeIntSilme\obj\Debug\net8.0\int+String-DegerlerdeIntSilme.genruntimeconfig.cache
+c:\Users\beyza\Desktop\.NET-Core\Baslangic-Patikasi\C# Projeleri\int+String-DegerlerdeIntSilme\obj\Debug\net8.0\ref\int+String-DegerlerdeIntSilme.dll
